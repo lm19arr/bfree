@@ -31,7 +31,7 @@ Copy the wallet address, then paste the address into the field
 
 
 
-Next, click Get free BNB
+Next, click Get free BNB.
 
 Then refresh the page and rejoice
 
